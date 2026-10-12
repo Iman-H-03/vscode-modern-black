@@ -2,22 +2,16 @@
   "name": "modern-black",
   "displayName": "Modern Black",
   "description": "Pure black (AMOLED) dark theme for Visual Studio Code.",
-  "version": "1.0.0",
-  "publisher": "local",
+  "version": "1.0.1",
+  "publisher": "MrI",
   "license": "MIT",
-  "engines": {
-    "vscode": "^1.80.0"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Iman-H-03/vscode-modern-black.git"
   },
-  "categories": [
-    "Themes"
-  ],
-  "keywords": [
-    "theme",
-    "black",
-    "amoled",
-    "dark",
-    "modern"
-  ],
+  "engines": { "vscode": "^1.80.0" },
+  "categories": ["Themes"],
+  "keywords": ["theme", "black", "amoled", "dark", "modern"],
   "contributes": {
     "themes": [
       {

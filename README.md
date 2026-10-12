@@ -9,14 +9,14 @@ A pure black (AMOLED) dark theme for Visual Studio Code.
 
 ## Install
 
-1. Download `modern-black-0.0.1.vsix` from the Releases page of this repository.
+1. Download `modern-black-1.0.1.vsix` from the Releases page of this repository.
 2. In VS Code open Extensions (`Ctrl+Shift+X`), click `...`, and choose **Install from VSIX...**.
 3. Pick **Modern Black** with `Ctrl+K Ctrl+T`.
 
 Or from a terminal:
 
 ```bash
-code --install-extension modern-black-0.0.1.vsix
+code --install-extension modern-black-1.0.1.vsix
 ```
 
 ## Build from source
